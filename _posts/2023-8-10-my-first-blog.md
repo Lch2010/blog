@@ -15,11 +15,7 @@ Luogu uid: 778235
 
 <img src="/images/posts/first-blog/778235.png" width="15%">
 
-ZJ OIer  
-
-初二  
-
-生日 11 月 11 日
+ZJ OIer | 初二 | 生日 11 月 11 日
 
 #### 欢迎关注我的 Luogu 账号
 
