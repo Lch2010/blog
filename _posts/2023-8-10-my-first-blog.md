@@ -15,7 +15,7 @@ uid: 778235
 
 链接: [I_like_magic](https://www.luogu.com.cn/user/778235)
 
-<img src="/images/posts/first-blog/778235.png" width="20%">
+<img src="/images/posts/first-blog/778235.png" width="15%">
 
 [![](http://api.jerryz.com.cn/guzhi?id=778235&scores=100,40,18,86,0&dark_mode=true&card_width=650)](https://www.luogu.com.cn/user/778235 "垃圾估值")
 
