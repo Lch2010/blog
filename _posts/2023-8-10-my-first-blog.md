@@ -15,7 +15,11 @@ Luogu uid: 778235
 
 <img src="/images/posts/first-blog/778235.png" width="15%">
 
-ZJ OIer | 初二 | 生日 11 月 11 日
+ZJ OIer  
+
+初二  
+
+生日 11 月 11 日
 
 #### 欢迎关注我的 Luogu 账号
 
@@ -23,8 +27,9 @@ ZJ OIer | 初二 | 生日 11 月 11 日
 
 梦想： **AK IOI**
 
-<img src="/images/posts/first-blog/个人名片.png" width="40%">
+<img src="/images/posts/first-blog/个人名片.png" width="80%">
 
 我的 B 站账号：<https://space.bilibili.com/2075062314>
 
 我的 Github 账号：<https://github.com/lanruixiang>
+
