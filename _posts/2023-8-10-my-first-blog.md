@@ -7,8 +7,6 @@ keywords: 个人信息
 topmost: true
 ---
 
-2023/8/10，我搭建好了自己的博客页面，以下就是我的一些个人信息
-
 Luogu uid: 778235
 
 链接: [I_like_magic](https://www.luogu.com.cn/user/778235)
