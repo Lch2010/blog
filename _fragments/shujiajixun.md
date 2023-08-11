@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 关于暑假集训
-categories: 集训
+layout: fragment
+title: 关于 16 天的暑假集训
+tags: [集训]
 description: 暑假集训
 keywords: 集训, 暑假
 ---
