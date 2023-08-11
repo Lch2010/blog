@@ -8,7 +8,7 @@ keywords: Luogu, 题解
 
 原题解链接：<https://www.luogu.com.cn/blog/I-like-magic/solution-cf755b>
 
-## 思路
+## 分析
 
 这题其实不难。
 
