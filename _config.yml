@@ -90,9 +90,9 @@ navs:
     href: /fragments/
     label: 片段
 
-  -
-    href: /wiki/
-    label: 维基
+#  -
+#    href: /wiki/
+#    label: 维基
 
   -
     href: /links/
