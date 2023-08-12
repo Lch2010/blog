@@ -1,7 +1,7 @@
 ---
 layout: fragment
 title: C++ 小技巧
-tags: [C++]
+tags: [C++,I AK IOI]
 description: C++ 小技巧
 keywords: C++, 技巧
 ---
