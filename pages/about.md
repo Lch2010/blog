@@ -8,11 +8,11 @@ menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+我是 lanruixiang，初二 OIer，生日 11 月 11 日
 
-仰慕「优雅编码的艺术」。
+欢迎大家关注我洛谷账号 [I_like_magic](https://www.luogu.com.cn/user/778235)
 
-坚信熟能生巧，努力改变人生。
+感谢大家
 
 ## 联系
 
