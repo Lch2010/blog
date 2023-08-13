@@ -6,4 +6,4 @@ description: 坦克动荡
 keywords: 坦克, 神奇, 坦克动荡
 ---
 
-![](/images/posts/tanke.mp4)
+<video src="/images/posts/tanke.mp4"></video>
