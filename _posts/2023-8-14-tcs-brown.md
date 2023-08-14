@@ -4,6 +4,7 @@ title: TCS 棕名赛
 categories: 比赛宣传
 description: TCS 棕名赛
 keywords: Luogu, 比赛, TCS 棕名赛
+topmost: true
 ---
 
 比赛链接： <https://www.luogu.com.cn/contest/124551>
