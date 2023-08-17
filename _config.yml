@@ -2,18 +2,18 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://lanruixiang.github.io
+url: https://Lch2010.github.io
 date_format: "ordinal"
-title: lanruixiang
-subtitle: "I_like_magic"
-description: "lanruixiang 的个人博客，Luogu 778235"
+title: lianchanghua
+subtitle: "Lch2010"
+description: "lianchanghua 的个人博客，Luogu 564475"
 keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
 # 源码仓库，请替换成自己的
-repository: lanruixiang/lanruixiang.github.io
+repository: Lch2010/Lch2010.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2023-08-17
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -40,7 +40,7 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: I_like_magic
+        image_alt: lianchanghua
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Lan Ruixiang
+author: Lian Changhua
 organization: 
 organization_url: 
-github_username: lanruixiang
+github_username: lianchanghua
 location: Zhejiang, China
-email: lanruixiang200911@163.com
+email: 18867578068@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -154,29 +154,29 @@ disqus:
     username: 
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: lanruixiang
+    owner: Lch2010
     repo: blog-comments
     oauth:
-        client_id: 8792c87e5d02d15de888
-        client_secret: 0547b9c94e09df3b98bfee7ac0974ccd6e582178
+        client_id: 7fd3488b6e72eea15ad3
+        client_secret: bb509e32e425bc2920dcbfb12bde4b9127ac19f7
 # gitalk 配置参考：https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: lanruixiang
+    owner: Lch2010
     repo: blog-comments
-    clientID: 80d95a0b5b07af5b5d4d
-    clientSecret: 8f4f5a70109421ca951bcc0a50fc32900a77d2ce
+    clientID: 174a41c895fac8d6c4fd
+    clientSecret: d720d6022d0c5dc38ca2b6acf6acc851fffb74e6
 # utterances 配置参考：https://utteranc.es/
 utterances:
-    repo: lanruixiang/blog-comments
+    repo: Lch2010/blog-comments
 # beaudar 配置参考：https://beaudar.lipk.org/
 beaudar:
-    repo: lanruixiang/blog-comments
+    repo: Lch2010/blog-comments
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: lanruixiang/blog-comments
-    repo-id: R_kgDOKFjoYw
+    repo: Lch2010/blog-comments
+    repo-id: R_kgDOKIFixA
     category: Announcements
-    category-id: DIC_kwDOKFjoY84CYgpT
+    category-id: DIC_kwDOKIFixM4CYqKi
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
