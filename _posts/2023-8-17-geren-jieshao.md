@@ -23,7 +23,7 @@ lianchanghua（Lch），2010年1月18日出生于[浙江省丽水市](https://ba
 
 朋友：
 
-$\rm 炭烤大熊猫，超好次。$
+炭烤大熊猫，超好次。
 
 [![](https://cdn.luogu.com.cn/upload/usericon/778235.png)](https://www.luogu.com.cn/user/778235)
 [![](https://cdn.luogu.com.cn/upload/usericon/767295.png)](https://www.luogu.com.cn/user/767295)
