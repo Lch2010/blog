@@ -205,8 +205,6 @@ int main(){ //主函数
 
 ## 条件语句
 
-### if
-
 写程序时，我们经常遇到这样的情况：
 
 ![](/images/wiki/cpp-rumen/liuchengtu.png)
