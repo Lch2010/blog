@@ -1,3 +1,19 @@
+- name: 码志
+  url: http://mazhuang.org
+  src: life
+
+- name: I_like_magic
+  url: https://lanruixiang.github.io/
+  src: life
+
+- name: lianchanghua
+  url: https://Lch2010.github.io/
+  src: life
+  
+- name: Nathan3122
+  url: https://nathan3122.github.io/
+  src: life
+  
 - name: 洛谷
   url: https://www.luogu.com.cn
   src: www
@@ -18,79 +34,19 @@
   url: https://www.bilibili.com
   src: www
 
-- name: 一本通
-  url: http://ybt.ssoier.cn:8088/
-  src: www
-
-- name: 青藤
-  url: http://code.qingtengbc.com/
-  src: www
-
 - name: NOI
   url: https://www.noi.cn/
-  src: www
-
-- name: Atcoder
-  url: https://atcoder.jp/
   src: www
 
 - name: OI Wiki
   url: https://oi-wiki.org
   src: www
 
-- name: CodeForces
-  url: https://codeforces.com
-  src: www
-
-- name: Desmos
-  url: http://desmos.com
-  src: www
-
-- name: USACO
-  url: http://usaco.org
-  src: www
-
-- name: InfOJ
-  url: http://119.27.163.117/
-  src: www
-
-- name: LaTeX
-  url: https://www.latexlive.com/
-  src: www
-
 - name: OIso
   url: https://www.oiso.cf
   src: www
 
-- name: wallhaven
-  url: https://wallhaven.cc/
-  src: www
-
-- name: 博客园
-  url: https://www.cnblogs.com/
-  src: www
-
-- name: OIerDb
-  url: https://www.xn--vuqs4zq3d.com/
-  src: www
-
-- name: ChatGPT
-  url: https://openai.com/blog/chatgpt/
-  src: www
-
-- name: LibreOJ
-  url: https://loj.ac/
-  src: www
-
-- name: Vijos
-  url: https://vijos.org/
-  src: www
-
-- name: HydroOJ
-  url: https://hydro.ac/
-  src: www
-
-- name: python.org
+- name: python
   url: https://www.python.org/
   src: www
 
@@ -101,4 +57,3 @@
 - name: sourceforge
   url: https://sourceforge.net
   src: www
-
