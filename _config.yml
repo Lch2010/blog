@@ -163,8 +163,8 @@ gitment:
 gitalk:
     owner: Lch2010
     repo: blog-comments
-    clientID: 174a41c895fac8d6c4fd
-    clientSecret: d720d6022d0c5dc38ca2b6acf6acc851fffb74e6
+    clientID: 7fd3488b6e72eea15ad3
+    clientSecret: bb509e32e425bc2920dcbfb12bde4b9127ac19f7
 # utterances 配置参考：https://utteranc.es/
 utterances:
     repo: Lch2010/blog-comments
