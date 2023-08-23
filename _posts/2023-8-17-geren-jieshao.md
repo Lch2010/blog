@@ -5,6 +5,7 @@ categories: 个人介绍
 description: 欢迎来到我的博客(✪ω✪)
 keywords: Welcome, blog
 topmost: true
+mathjax: true
 ---
 
 ~~全民制作人大家好，我是练习时长两年半的个人练习生 Lch。~~
