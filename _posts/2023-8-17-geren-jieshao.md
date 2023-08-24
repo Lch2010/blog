@@ -3,7 +3,7 @@ layout: post
 title: 欢迎来到我的博客(✪ω✪)
 categories: 个人介绍
 description: 欢迎来到我的博客(✪ω✪)
-keywords: Welcome, blog
+keywords: Welcome, blog, lrxsb
 topmost: true
 mathjax: true
 ---
