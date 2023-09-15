@@ -38,6 +38,6 @@ lianchanghua（Lch），2010年1月18日出生于[浙江省丽水市](https://ba
 
 去洛谷关注我，谢谢喵。
 
-## The End.
+## The End
 
 
