@@ -1,0 +1,57 @@
+---
+layout: post
+title: CF755B 题解
+categories: 个人介绍
+description: CF755B 题解
+keywords: solution
+mathjax: true
+---
+
+
+个人认为，这是一道“贪心+博弈论”的题。
+
+最优策略必然是优先说掉所有公共单词，然后再说非公共单词。
+
+设公共单词的数量为 $$x$$。
+
+- 若 $$x$$ 为奇数，那么最后一个说出公共单词的是先手，此时若 $$(n\ge m)$$ 则先手胜。
+
+- 若 $$x$$ 为偶数，那么最后一个说出公共单词的是后手，此时若 $$(n > m)$$ 则先手胜。
+
+就以上这些，想通之后就十分简单。
+
+AC Code:
+```cpp
+#include<bits/stdc++.h>//万能头 
+#define int long long//保险起见 
+using namespace std;
+map<string,int> p;//记录公共单词 
+int n,m;
+signed main(){
+    ios::sync_with_stdio(false);//加个速 
+    cin>>n>>m;
+    for(int i=1;i<=n;i++){
+    	string s;
+    	cin>>s;
+		p[s]++;
+	}//第一个人的单词数 
+    for(int i=1;i<=m;i++){
+    	string s;
+    	cin>>s;
+		p[s]++;
+	}//第二个人的单词数 
+    int x=0;
+    for(map<string,int>::iterator it=p.begin();it!=p.end();it++){
+    	x+=(it->second==2);
+	}//装波小B(我才不会告诉你我刚学会呢！) 
+    if(x%2){//你如果想装B的话，也可以用x&1 
+    	if(n>=m)		cout<<"YES\n";
+		else			cout<<"NO\n";
+	}
+    else{
+    	if(n>m)		cout<<"YES\n";
+		else		cout<<"NO\n";
+	}
+    return 0;//华丽结束
+}
+```
