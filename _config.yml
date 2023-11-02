@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://Lch2010.github.io
+url: https://Lch2010.github.io/blog
 date_format: "ordinal"
 title: lianchanghua
 subtitle: "lianchanghua"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
 # 源码仓库，请替换成自己的
-repository: Lch2010/Lch2010.github.io
+repository: Lch2010/blog
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
