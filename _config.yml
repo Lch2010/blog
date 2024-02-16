@@ -99,11 +99,6 @@ navs:
     label: 链接
     mobile-hidden: true
 
-# My Update
-#  - href: /luogu-posts/
-#    label: 洛谷神贴
-#    mobile-hidden: true
-###
   -
     href: /donate/
     label: 捐助
