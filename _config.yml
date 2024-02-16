@@ -105,6 +105,10 @@ navs:
 #    mobile-hidden: true
 ###
   -
+    href: /donate/
+    label: 捐助
+
+  -
     href: /about/
     label: 关于
 
