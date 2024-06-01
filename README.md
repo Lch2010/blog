@@ -10,4 +10,4 @@ Fork from <https://github.com/mzlogin/mzlogin.github.io>
 
 ### [lianchanghua](https://www.luogu.com.cn/user/564475)
 
-[![](http://api.jerryz.com.cn/guzhi?id=564475&scores=100,40,18,86,0&dark_mode=true&card_width=650)](https://www.luogu.com.cn/user/564475 "垃圾估值")
+![](https://cdn.luogu.com.cn/upload/image_hosting/m3cgagxq.png?x-oss-process=image/resize,m_lfit,h_450,w_450)
