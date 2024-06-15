@@ -2,7 +2,7 @@ Fork from <https://github.com/mzlogin/mzlogin.github.io>
 
 ---
 
-这是我的博客地址：<https://Lch2010.github.io>
+这是我的博客地址：<https://Lch2010.github.io/blog>
 
 欢迎大家参观本蒟蒻的博客
 
