@@ -14,4 +14,4 @@ permalink: /donate/
 
 ## WeChat
 
-![](/blog/assets/images/receipt-code-wechat.jpg)
+![](/blog/assets/images/receipt-code-wechat.jpg?x-oss-process=image/resize,m_lfit,h_450,w_450)
