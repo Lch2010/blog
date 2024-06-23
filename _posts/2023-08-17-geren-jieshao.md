@@ -24,9 +24,7 @@ lianchanghua（Lch），2010年1月18日出生于[浙江省丽水市](https://ba
 
 住址：本宇宙拉尼亚凯亚超星系团室女座星系团本星系群银河系猎户臂太阳系第三行星地球。
 
-朋友：
-
-炭烤大熊猫，超好次。
+友链：
  
 [![](https://cdn.luogu.com.cn/upload/usericon/778235.png)](https://www.luogu.com.cn/user/778235)
 [![](https://cdn.luogu.com.cn/upload/usericon/767295.png)](https://www.luogu.com.cn/user/767295)
@@ -37,6 +35,10 @@ lianchanghua（Lch），2010年1月18日出生于[浙江省丽水市](https://ba
 [![](https://cdn.luogu.com.cn/upload/usericon/890467.png)](https://www.luogu.com.cn/user/890467)
 
 去洛谷关注我，谢谢喵。
+
+也可以加我微信：
+
+![](https://cdn.luogu.com.cn/upload/image_hosting/m3cgagxq.png?x-oss-process=image/resize,m_lfit,h_450,w_450)
 
 ## The End
 
