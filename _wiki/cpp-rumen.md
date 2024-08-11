@@ -7,7 +7,6 @@ description: c++入门
 keywords: 入门, C++
 ---
 
-
 #### 请关注[lianchanghua](https://www.luogu.com.cn/user/564475)谢谢喵。
 
 ## 基础设备。
@@ -48,7 +47,7 @@ int main(){
 
 剩下的其实没有那么重要了，可忽略（我才不会告诉你是我也不太清楚了呢！╭(╯^╰)╮）。
 
-好了接着奔向我们的语法部分，真正开启我们 C++ 路上的新征程！
+好了接着奔向我们的语法部分，真正开启我们 C++ 路上的新征程！b
 
 **定义变量**
 
@@ -247,7 +246,7 @@ int main(){
 
 然后你又可以去[做这道题了](https://www.luogu.com.cn/problem/P1001)!
 
-然后你又瞄上了[这题](https://www.luogu.com.cn/problem/B2001)，结果你惊讶的发现，你得到了 `WA`，这是为什么呢？注意题目数据范围：$[1, 4 \times {10}^{18}]$，而我们的 `int`呢，却只能算到 `2147483647`，远远不够！于是乎，我们就掏出了 `long long` 这位大哥。但是，使用 `scanf` 的童鞋请注意！这样会出错！应该把 `%d` 改成 `%lld` 方可通过。
+然后你又瞄上了[这题](https://www.luogu.com.cn/problem/B2001)，结果你惊讶的发现，你得到了 `WA`，这是为什么呢？注意题目数据范围：$$[1, 4 \times {10}^{18}]$$，而我们的 `int`呢，却只能算到 `2147483647`，远远不够！于是乎，我们就掏出了 `long long` 这位大哥。但是，使用 `scanf` 的童鞋请注意！这样会出错！应该把 `%d` 改成 `%lld` 方可通过。
 
 好了，最重要的输入输出已经学完，接下来迈向我们的选择语句吧！
 
@@ -300,9 +299,13 @@ else	cout<<"作者真帅！"
 
 循环在 c++ 中有三种，分别为 `for`，`while`，以及 `do while` 其中，`for` 循环的使用频率是最高的，我们就先来讲他吧！
 
-`for(int i=1;i<=n;i++){}`
+```cpp
+for(int i=1;i<=n;i++){}
+```
 
-上面是 `for` 循环的基础写法，表示循环从 1~n.
+上面是 `for` 循环的基础写法，表示循环从 $$1$$ 到 $$n$$。
+
+其中，`int i` 即申明了一个变量 `i`，而 `i<=n` 则代表循环条件，满足此条件才会继续循环，否则就会退出循环，`i++`，表示每一轮循环结束，都会让 `i` 增加 $$1$$。
 
 比如说我们可以写一个程序计算 1~10 的阶乘。
 
@@ -311,5 +314,54 @@ int sum=1;
 for(int i=1;i<=10;i++)	sum*=i; 
 cout<<sum;
 ```
+
+试试看！[Luogu P5718](https://www.luogu.com.cn/problem/P5718)
+
+我们可以根据题意很快的写出代码：
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std;
+int mi=1e9;
+int main(){
+	int n;
+	cin>>n;
+	for(int i=1;i<=n;i++){
+		int x;
+		cin>>x;
+     	if(x<mi)mi=x;
+	}
+	cout<<mi;
+	return 0;
+}
+```
+
+恭喜你又掌握了一个知识点！
+
+除了 `for` 以外，还有一个比较常用的是 `while`。
+
+它的语法即为：
+
+```cpp
+while(){}
+```
+
+其中 `()` 中所填的是循环条件，当条件不满足时就会退出。
+
+比如我们可以写一个 `while` 版的计算 1~10 的阶乘：
+
+```cpp
+int sum=1;
+int i=1;
+while(i<=10)	sum*=i,i++; 
+cout<<sum;
+```
+
+[Luogu P5718](https://www.luogu.com.cn/problem/P5718) 的代码就不演示了，感兴趣的可以自己尝试看看。
+
+还有一个循环叫 `do while` 但本人感觉没啥软用，这里就不介绍了。
+
+
+#### 未完待续
 
 参考资料：[lanruixiang的blog](https://lanruixiang.github.io/wiki/cpp-rumen/)
