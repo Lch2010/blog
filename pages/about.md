@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: 打码改变世界
-keywords: Lanruixiang
+keywords: Lianchanghua
 comments: true
 menu: 关于
 permalink: /about/
